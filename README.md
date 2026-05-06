@@ -9,14 +9,11 @@
 📚 Aprendendo HTML, CSS, JavaScript, lógica de programação e Python
 </p>
 
-
-<h3>Tecnologias & Ferramentas</h3>
+<h3>🛠️ Tecnologias & Ferramentas</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,sqlite,git,github,vscode" />
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1viny&label=Profile%20views&color=0e75b6&style=flat" alt="1viny" /> </p>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
