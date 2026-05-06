@@ -6,7 +6,7 @@
 🎓 Estudante de desenvolvimento de software <br>
 📍 Maringá - PR <br>
 🚀 Focado sempre buscar evolução <br>
-📚 Aprendendo HTML, CSS, JavaScript, lógica de programação e Python
+📚 Aprendendo HTML, CSS, JavaScript, lógica de programação, SQlite e Python
 </p>
 
 <h3>🛠️ Tecnologias & Ferramentas</h3>
