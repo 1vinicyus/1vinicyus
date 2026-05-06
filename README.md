@@ -3,10 +3,9 @@
 <h3>Sobre mim</h3>
 
 <p>
-🎓 Estudante de desenvolvimento de software <br>
 📍 Maringá - PR <br>
 🚀 Focado sempre buscar evolução <br>
-📚 Aprendendo HTML, CSS, JavaScript, lógica de programação, SQlite e Python
+📚 Estudando lógica de programação, SQLite e Python
 </p>
 
 <h3>🛠️ Tecnologias & Ferramentas</h3>
