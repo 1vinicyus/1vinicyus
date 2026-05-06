@@ -1,5 +1,27 @@
 <h1 align="center">Olá 👋, sou Vinicyus Faria</h1>
 
+<h3>👨‍💻 Sobre mim</h3>
+
+<p>
+🎓 Estudante de desenvolvimento de software <br>
+📍 Maringá - PR <br>
+🚀 Focado sempre buscar evolução <br>
+📚 Aprendendo HTML, CSS, JavaScript, lógica de programação e Python
+</p>
+
+
+<h3>🛠️ Tecnologias & Ferramentas</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,git,github,vscode" />
+</p>
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=1viny&show_icons=true&theme=dark" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1viny&layout=compact&theme=dark" />
+</p
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1viny&label=Profile%20views&color=0e75b6&style=flat" alt="1viny" /> </p>
 
 <h3 align="left">Conecte-se comigo:</h3>
