@@ -4,14 +4,14 @@
 
 <p>
 📍 Maringá - PR <br>
-🚀 Focado sempre buscar evolução <br>
-📚 Estudando lógica de programação, SQLite e Python
+🚀 Focado, sempre buscando a evolução <br>
+📚 Estudando Engenharia de Software
 </p>
 
-<h3>🛠️ Tecnologias & Ferramentas</h3>
+<h3>Tecnologias & Ferramentas</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,sqlite,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,sqlite,github,vscode" />
 </p>
 
 <h3 align="left">Conecte-se comigo:</h3>
