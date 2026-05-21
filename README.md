@@ -1,38 +1,47 @@
 <h1 align="center">Olá 👋, sou Vinicyus Faria</h1>
 
-<h3>Sobre mim</h3>
+<h3 align="center">Em tansição para Desenvolvimento de Software| Estudante de Engenharia de Software</h3>
 
-<p>
-📍 Maringá - PR <br>
-🚀 Focado, sempre buscando a evolução <br>
-📚 Estudando Engenharia de Software
+---
+
+### 👨‍💻 Sobre mim
+- 📍 Maringá - PR  
+- 🚀 Focado em evolução constante  
+- 📚 Estudando Engenharia de Software  
+- 💡 Interesse em desenvolvimento, automação e tecnologia  
+
+---
+
+### 🛠 Tecnologias & Ferramentas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,sqlite,github,vscode&theme=dark" />
 </p>
 
-<h3>Tecnologias & Ferramentas</h3>
+---
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,sqlite,github,vscode" />
+### 📊 Estatísticas GitHub
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=1viny&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=1viny&theme=tokyonight" />
 </p>
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/Vinicyus Eduardo Vicenitni Faria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinicyus eduardo vicenitni faria" height="30" width="40" /></a>
-<a href="https://instagram.com/vinicyus.faria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinicyus.faria" height="30" width="40" /></a>
+---
+
+### 🌐 Conecte-se comigo
+<p align="center">
+  <a href="https://linkedin.com/in/vinicyus-eduardo-vicenitni-faria" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://instagram.com/vinicyus.faria" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1viny&" alt="1viny" /></p>
+---
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+### 🐍 Snake das contribuições
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
