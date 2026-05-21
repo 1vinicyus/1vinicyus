@@ -1,4 +1,21 @@
-<h1 align="center">Olá 👋, sou Vinicyus Faria</h1>
+
+
+
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=header&text=Vinicyus%20Faria&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</h1>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=1viny&label=Visualizações&color=0e75b6&style=flat" />
+</p>
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400px"/>
+</p>
+
+
 
 <h3 align="center">Em tansição para Desenvolvimento de Software| Estudante de Engenharia de Software</h3>
 
@@ -19,11 +36,6 @@
 
 ---
 
-### 📊 Estatísticas GitHub
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=1viny&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=1viny&theme=tokyonight" />
-</p>
 
 ---
 
