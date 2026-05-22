@@ -17,11 +17,11 @@
 
 
 
-<h3 align="center">Em tansição para Desenvolvimento de Software| Estudante de Engenharia de Software</h3>
+<h3 align="center">Em tansição para Desenvolvimento de Software | Estudante Tecnologia e Programação</h3>
 
 ---
 
-### 👨‍💻 Sobre mim
+👨‍💻 Sobre mim
 - 📍 Maringá - PR  
 - 🚀 Focado em evolução constante  
 - 📚 Estudando Engenharia de Software  
@@ -29,7 +29,7 @@
 
 ---
 
-### 🛠 Tecnologias & Ferramentas
+Tecnologias & Ferramentas
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,c,python,sqlite,github,vscode&theme=dark" />
 </p>
@@ -39,7 +39,7 @@
 
 ---
 
-### 🌐 Conecte-se comigo
+🌐 Conecte-se comigo
 <p align="center">
   <a href="https://linkedin.com/in/vinicyus-eduardo-vicenitni-faria" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -49,9 +49,6 @@
   </a>
 </p>
 
----
-
-### 🐍 Snake das contribuições
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
